@@ -12,3 +12,5 @@ let nameFour = "João"
 console.log (nameOne == nameFour)
 
 console.log (nameOne == nameThree)
+
+console.log (nameOne !== nameFour)  // Pergunta se é diferente

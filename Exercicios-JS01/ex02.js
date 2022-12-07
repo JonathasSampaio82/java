@@ -2,6 +2,6 @@
 
 const numberZero = 10
 const nunberOne = 10
-const add = + 20
+const add = + 10
 
-console.log (numberZero + nunberOne + add)
+console.log (numberZero * nunberOne + add)  
