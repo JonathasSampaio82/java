@@ -9,4 +9,4 @@ const sum = nunberZero + nunberOne
 
 console.log(sum)
 
-console.log (nunberZero + NumberTwo)
+// console.log (nunberZero + NumberTwo)
