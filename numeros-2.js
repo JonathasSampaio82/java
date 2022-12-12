@@ -4,6 +4,6 @@
 const firstNumber = 11
 const seccondNumber = 33
 
-const result = firstNumber % seccondNumber
+const result = firstNumber % seccondNumber    // resto de 11 / 33
 
 console.log(result)
