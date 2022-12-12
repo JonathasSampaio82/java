@@ -1,26 +1,27 @@
-/* ESTRUTURARS DE REPETIÇÃO - FOR
+/* Estruturas de repetição - While (equanto)
 
 
+Ultlizar while quando não é previsível
+o ultimo numero, como no ex 2.
 
 */
 
-
-
-for(let i = 0; i <= 10; i++){
-    console.log(i)
-
-}
-console.log("terminou meu for")
-
-
+//#######################################################
 
 /* 
-const students = ['Bruna', 'Ana', 'João', 'maria', 'pedro']
 
-for(let i = 0; i < students.length; i++){
-
-     console.log(`${students[i]} está presente na aula`)
-
+let i = 0
+while(i<20){
+    console.log(i)
+    i+=2              
 }
+ */
 
-*/
+//#######################################################
+
+let i = 22446655
+while(i > 20){
+    console.log(i)
+    i/=40
+}
+//vai dividir o resultado até dar un numero menor que 20
